@@ -1,2 +1,2 @@
-# Plant_Desease_Detection
+# Plant_Disease_Detection
 ML mini project
